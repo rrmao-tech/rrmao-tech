@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm RRMAO 👋
 
-<!--
-**rrmao-tech/rrmao-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Pandas
+- Excel
+- Power BI
+
+## Featured Projects
+
+### EDA Assessment
+Coming Soon
+
+### SQL Business Analysis
+Coming Soon
+
+### Power BI Dashboard
+Coming Soon
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/rrmao/
