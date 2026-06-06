@@ -1,4 +1,4 @@
-# HYP-04 End of Module Assessment: Chi-Square Test for Independence
+# Chi-Square Test for Independence
 
 ## Overview
 
