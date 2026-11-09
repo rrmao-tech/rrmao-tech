@@ -53,7 +53,9 @@ An end-to-end HR analytics project analysing 1,200 employee records to uncover w
 - [GitHub Repository](https://github.com/rrmao-tech/employee-absenteeism-analysis)
 - [Jupyter Notebook](https://github.com/rrmao-tech/employee-absenteeism-analysis/blob/main/notebooks/employee_absenteeism_eda.ipynb)
 - [Final EDA Report (PDF)](https://github.com/rrmao-tech/employee-absenteeism-analysis/blob/main/reports/Mega_Supermart_Employee_Absenteeism_EDA.pdf)
-  
+
+---
+
 ### 🌊 Watershed Water Quality Intelligence Dashboard
 🔍 Environmental risk analysis system for watershed water quality monitoring and decision support.
 
