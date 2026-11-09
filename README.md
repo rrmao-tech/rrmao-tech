@@ -37,7 +37,7 @@ I enjoy working on end-to-end analytics projects involving data cleaning, visual
 
 ## 📂 Featured Projects
 
-### 📊 Employee Absenteeism Analytics | Mega Supermart 2025
+### 📊 Employee Absenteeism Analytics | Mega Supermart 
 
 **Python | EDA | Statistical Analysis | HR Analytics | Business Intelligence**
 
