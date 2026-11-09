@@ -37,6 +37,23 @@ I enjoy working on end-to-end analytics projects involving data cleaning, visual
 
 ## 📂 Featured Projects
 
+### 📊 Employee Absenteeism Analytics | Mega Supermart 2025
+
+**Python | EDA | Statistical Analysis | HR Analytics | Business Intelligence**
+
+An end-to-end HR analytics project analysing 1,200 employee records to uncover workforce absenteeism patterns and translate statistical findings into actionable business insights.
+
+**Key Highlights:**
+- Analysed departmental and employment-type absenteeism differences.
+- Applied Welch's t-test, Pearson and Spearman correlation, Chi-square testing and IQR outlier detection.
+- Identified a 2.52% weighted absence rate and significant differences between full-time and part-time employees.
+- Developed targeted HR recommendations based on statistical evidence.
+
+**Project Deliverables:**
+- [GitHub Repository](https://github.com/rrmao-tech/employee-absenteeism-analysis)
+- [Jupyter Notebook](https://github.com/rrmao-tech/employee-absenteeism-analysis/blob/main/notebooks/employee_absenteeism_eda.ipynb)
+- [Final EDA Report (PDF)](https://github.com/rrmao-tech/employee-absenteeism-analysis/blob/main/reports/Mega_Supermart_Employee_Absenteeism_EDA.pdf)
+  
 ### 🌊 Watershed Water Quality Intelligence Dashboard
 🔍 Environmental risk analysis system for watershed water quality monitoring and decision support.
 
